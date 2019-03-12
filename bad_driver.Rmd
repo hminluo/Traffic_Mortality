@@ -17,6 +17,8 @@ library(scatterplot3d)
 library(ggfortify)
 ```
 
+## Reducing Traffic Mortality
+
 Road accident is one of the leading cause of deaths globally. Specifically in the US, an average of 102 people per day were killed in motor vehicle accidents according to 2016 National Highway Traffic Safety Administration (NHTSA) data. Coupled with the increasing amount of driving, traffic related-fatalities death is increasing at an alarming rate.  
 
 By analyzing the demographics of victims involved in traffic accidents in each state, a pattern may be identified, and a action plan may be developed based on the insights extracted from the dataset. 
